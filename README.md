@@ -1,4 +1,4 @@
-# Hi there, I am [Rituraj Tripathi](https://harsh98trivedi.github.io/)&nbsp;&nbsp;&nbsp;<img width="8%" src="https://i.imgur.com/u2WLlB8.gif" />
+# Hi there, I am [Rituraj Tripathi](https://harsh98trivedi.github.io/)&nbsp;&nbsp;&nbsp;<img width="8%" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
 A frontend web developer with a passion for programming and design. I enjoy building intuitive and efficient user interfaces, exploring new software, and contributing to open-source projects. Outside of coding, I love experimenting with gadgets and staying inspired by tech trends and content creators.
 
@@ -12,7 +12,7 @@ A frontend web developer with a passion for programming and design. I enjoy buil
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning MERN STACK, MongoDB, ExpressJS, NodeJS</p>
-<p>💬 Ask me about Front-End Development, Jekyll, Graphic Designing</p>
+<p>💬 Ask me about Front-End Development, Creative Designs</p>
 <p>📫 How to reach me? <a href="https://www.linkedin.com/in/riturajtripathi">linkedin.com/in/riturajtripathi</a></p>
 <!-- <p>All of my projects are available at <a href="https://riturajtripathi.github.io/project"></a>https://riturajtripathi.github.io/project</p> -->
 <p>⚡ Fun Fact: I love Bikes</p>
@@ -20,17 +20,18 @@ A frontend web developer with a passion for programming and design. I enjoy buil
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 5px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 5px;" height="30px">
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 5px;" height="30px">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin-bottom: 5px;" height="30px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 5px;" height="30px">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 5px;" height="30px"></br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 5px;" height="30px">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 5px;" height="30px">
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 5px;" height="30px">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 5px;" height="30px">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 5px;" height="30px"></br>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 5px;" height="30px">
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" style="margin-bottom: 5px;" height="30px">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 5px;" height="30px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
 
